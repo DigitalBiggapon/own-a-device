@@ -728,7 +728,7 @@
         "type": "header",
         "settings": {
           "display_header_top": true,
-          "top_message_text": "Mid-Season Sale Up to 70% OFF. <a href=\"\/collections\/all\">Shop Now<\/a>",
+          "top_message_text": "Last-Season Sale Up to 70% OFF. <a href=\"\/collections\/all\">Shop Now<\/a>",
           "bg_header_top": "#ffe8e8",
           "text_header_top_color": "#b05d5d",
           "brand_type": "image",
@@ -1322,7 +1322,7 @@
         "settings": {
           "style_header": "style_1",
           "display_header_top": true,
-          "top_message_text": "Mid-Season Sale Up to 70% Off. <a href=\"\">Shop Now<\/a>",
+          "top_message_text": "Last-Season Sale Up to 70% Off. <a href=\"\">Shop Now<\/a>",
           "top_message_text_2": "",
           "top_message_text_3": "",
           "top_message_text_font_size": "14px",
